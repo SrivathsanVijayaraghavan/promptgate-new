@@ -194,6 +194,70 @@ class SemanticDetector:
 
         return signals
 
+    def detect_batch(self, cleaned_texts: list[str]) -> list[list[dict[str, Any]]]:
+        """Encode all texts in one batch and return signals per text.
+
+        More efficient than calling detect() in a loop because all input
+        chunks across all texts are encoded in a single model.encode() call,
+        avoiding repeated GPU/CPU round-trips.
+
+        Args:
+            cleaned_texts: List of cleaned text strings from the parser.
+
+        Returns:
+            List of signal lists, one per input text, in the same order
+            as cleaned_texts. Each inner list has the same structure as
+            detect(). Returns [] (empty list, not list of empty lists)
+            if cleaned_texts is empty.
+        """
+        if not self._available or self._embeddings is None or not cleaned_texts:
+            return []
+
+        # Build flat list of (text_index, chunk) pairs so we can encode all
+        # chunks from all inputs in one batch call.
+        index_chunk_pairs: list[tuple[int, str]] = []
+        for text_idx, text in enumerate(cleaned_texts):
+            if text.strip():
+                for chunk in self._chunk_text(text):
+                    index_chunk_pairs.append((text_idx, chunk))
+
+        if not index_chunk_pairs:
+            return [[] for _ in cleaned_texts]
+
+        all_chunks = [chunk for _, chunk in index_chunk_pairs]
+        all_embeddings = self._model.encode(all_chunks, convert_to_numpy=True)
+
+        # Per-text, per-category best similarity accumulator
+        # best[text_idx][category] = (best_sim, matched_text)
+        best_per_text: list[dict[str, tuple[float, str]]] = [
+            {} for _ in cleaned_texts
+        ]
+
+        for (text_idx, _), chunk_emb in zip(index_chunk_pairs, all_embeddings):
+            sims = cosine_similarity(chunk_emb.reshape(1, -1), self._embeddings)[0]
+            for attack_idx, attack in enumerate(self._attacks):
+                category = attack["category"]
+                sim = float(sims[attack_idx])
+                current_best = best_per_text[text_idx].get(category)
+                if current_best is None or sim > current_best[0]:
+                    best_per_text[text_idx][category] = (sim, attack["text"])
+
+        # Build signal lists — one per input text
+        results: list[list[dict[str, Any]]] = []
+        for best_per_category in best_per_text:
+            signals: list[dict[str, Any]] = []
+            for category, (sim, matched_text) in sorted(best_per_category.items()):
+                if sim >= self.threshold:
+                    signals.append({
+                        "signal":   "semantic_similarity",
+                        "severity": 0.60,
+                        "matched":  f"similar to: {matched_text} ({sim:.2f}) [{category}]",
+                        "category": "semantic",
+                    })
+            results.append(signals)
+
+        return results
+
     def is_available(self) -> bool:
         """Return True if the model loaded successfully and detection is active.
 
