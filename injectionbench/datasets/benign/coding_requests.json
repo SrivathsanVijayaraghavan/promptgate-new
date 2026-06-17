@@ -1,0 +1,1502 @@
+[
+  {
+    "text": "Write a function to reverse a string in Python",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a function to reverse a string in JavaScript",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a function to reverse a string in Java",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a function to reverse a string in C++",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a function to reverse a string in Go",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write me a script that sorts a list?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a SQL query to find duplicate rows",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "How do I write a function to reverse a string in Python?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "How do I write a function to reverse a string in JavaScript?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "How do I write a function to reverse a string in Java?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "How do I write a function to reverse a string in C++?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "How do I write a function to reverse a string in Go?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you help me write a Python function that checks if a number is prime?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you help me write a JavaScript function that checks if a number is prime?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you help me write a Java function that checks if a number is prime?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you help me write a C++ function that checks if a number is prime?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you help me write a Go function that checks if a number is prime?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how a Python function works",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how a for loop works in JavaScript",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how recursion works",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how a dictionary works in Python",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain the difference between a list and a tuple in Python",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how async/await works in JavaScript",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how pointers work in C",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain what a closure is in JavaScript",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how exception handling works in Python",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how SQL JOINs work",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how a hash map works",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain the difference between == and === in JavaScript",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how Python's garbage collector works",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain what a decorator does in Python",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how Go's goroutines work",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write a TypeScript function that can find the longest common substring?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Create a Bash function that can read a file line by line",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Implement a Ruby function to find the GCD of two numbers",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a function to convert a list of dicts to a CSV in Ruby",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write a TypeScript function that can flatten a nested list?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write a Go function that can remove duplicates from a list?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "I need code that can rotate an array by k positions, in Python",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "What's the JavaScript code to implement a class for a bank account?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how to find duplicate values in an array in C",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Please write Swift code to check if two strings are anagrams",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "How do I sort a list of numbers in Bash?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Create a SQL function that can find rows with NULL values",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "I need code that can rotate an array by k positions, in Swift",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Help me write a Rust program to check if a string is a palindrome",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a C# function to implement a basic caching decorator",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "How do I find the longest common substring in TypeScript?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write a C function that can merge two sorted arrays?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a SQL function to deep copy a nested dictionary",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "I need code that can implement quicksort, in Bash",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write a SQL function that can remove whitespace from a string?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Help me write a Java program to remove whitespace from a string",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "What's the JavaScript code to format a date string?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Implement a SQL function to implement a linked list",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "How do I calculate the factorial of a number in SQL?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "How do I validate a phone number with a regex in Go?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Show me how to implement a basic REST endpoint in Swift",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Help me write a SQL program to find the maximum value in a list",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a C function to write unit tests for a function",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how to convert a list of dicts to a CSV in Kotlin",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a function to parse a JSON string in C",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "How do I write a function to format a date string in TypeScript?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how to check if a number is prime in Go",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Help me write a C# program to find the GCD of two numbers",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how a TypeScript function that calculates the factorial of a number would work",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "How do I find the maximum value in a list in Kotlin?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Show me how to validate a phone number with a regex in Kotlin",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how a Swift function that calculates the nth Fibonacci number would work",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write a PHP function that can check if a string is a palindrome?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "How do I write a function to generate a random password in Ruby?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "I need code that can calculate the factorial of a number, in Rust",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "How do I write a function to find the longest common substring in Bash?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Please write Java code to implement a basic REST endpoint",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "What's the PHP code to implement a stack using an array?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "I need code that can connect to a database and run a query, in C",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write a Bash function that can flatten a nested list?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write me a script that can implement quicksort?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "I need code that can parse a JSON string, in PHP",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Create a C function that can implement a basic REST endpoint",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write me a script that can parse a JSON string?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Show me how to rotate an array by k positions in Swift",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write me a script that can implement binary search?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Implement a Rust function to implement a basic REST endpoint",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Create a C function that can find the GCD of two numbers",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "What's the JavaScript code to calculate the factorial of a number?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "What's the C++ code to generate a random password?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Please write C++ code to implement a stack using an array",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how to remove whitespace from a string in PHP",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "I need code that can implement a linked list, in TypeScript",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Show me how to reverse a string in Swift",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "How do I calculate the average of a list of numbers in Rust?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Implement a JavaScript function to find rows with NULL values",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write a Swift function that can find rows with NULL values?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write a Ruby function that can group rows by a column and sum a value?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "How do I write a function to validate a phone number with a regex in Python?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write me a script that can count word frequency in a text?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a function to group rows by a column and sum a value in Python",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Show me how to calculate the factorial of a number in TypeScript",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "What's the SQL code to calculate the average of a list of numbers?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Implement a SQL function to find the maximum value in a list",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Implement a JavaScript function to check if two strings are anagrams",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a JavaScript function to deep copy a nested dictionary",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a function to sort a list of numbers in Python",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Help me write a C++ program to implement a stack using an array",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Please write PHP code to create a queue using two stacks",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Show me how to convert Celsius to Fahrenheit in Python",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Create a Rust function that can validate an email address",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Help me write a Python program to implement a basic caching decorator",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Implement a Python function to validate an email address",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Create a C# function that can find the longest common substring",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write me a script that can check if a number is prime?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a Rust function to deep copy a nested dictionary",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Implement a C# function to parse a JSON string",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "I need code that can read a file line by line, in Ruby",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "How do I check if two strings are anagrams in Bash?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "I need code that can remove duplicates from a list, in C",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write a PHP function that can make a GET request to an API?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "I need code that can calculate the average of a list of numbers, in SQL",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write a Ruby function that can check if a string is a palindrome?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "How do I flatten a nested list in Bash?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Implement a SQL function to check if a number is prime",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how to check if a string is a palindrome in C#",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "I need code that can deep copy a nested dictionary, in PHP",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Create a SQL function that can calculate the factorial of a number",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "How do I generate a random password in Swift?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "What's the Java code to format a date string?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "How do I implement quicksort in Go?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "I need code that can implement a linked list, in C",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write me a script that can create a queue using two stacks?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Show me how to calculate the average of a list of numbers in PHP",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "What's the Bash code to rotate an array by k positions?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "I need code that can check if a number is prime, in C++",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write a TypeScript function that can make a GET request to an API?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a C# function to calculate the average of a list of numbers",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Implement a C++ function to calculate the factorial of a number",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "How do I validate an email address in Bash?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a function to remove whitespace from a string in Java",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "I need code that can parse a JSON string, in C++",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Create a C++ function that can group rows by a column and sum a value",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Help me write a Kotlin program to connect to a database and run a query",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "I need code that can check if two strings are anagrams, in Bash",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how to find the GCD of two numbers in Ruby",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Help me write a SQL program to remove duplicates from a list",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "How do I write a function to implement a basic REST endpoint in Java?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "I need code that can implement a basic caching decorator, in C",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how to check if a number is prime in PHP",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a Python function to implement binary search",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a SQL function to flatten a nested list",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how to connect to a database and run a query in C",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Show me how to validate a phone number with a regex in JavaScript",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write a C++ function that can convert a list of dicts to a CSV?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Implement a PHP function to implement quicksort",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Create a Rust function that can find duplicate values in an array",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write a Java function that can implement a basic REST endpoint?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a function to convert Celsius to Fahrenheit in C++",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a C function to implement a class for a bank account",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how to read a file line by line in Ruby",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Implement a Java function to calculate the nth Fibonacci number",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "What's the SQL code to reverse a string?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Implement a Go function to flatten a nested list",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Show me how to implement a class for a bank account in SQL",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "How do I write a function to make a GET request to an API in C++?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Please write TypeScript code to deep copy a nested dictionary",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write me a script that can find rows with NULL values?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Help me write a TypeScript program to write unit tests for a function",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "I need code that can remove whitespace from a string, in Swift",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Please write Ruby code to make a GET request to an API",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write a Bash function that can sort a list of numbers?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write me a script that can group rows by a column and sum a value?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Please write TypeScript code to generate a random password",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Please write Kotlin code to group rows by a column and sum a value",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how to merge two sorted arrays in Kotlin",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Help me write a Bash program to find the maximum value in a list",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "How do I find rows with NULL values in Ruby?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a C function to remove duplicates from a list",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Show me how to implement a basic caching decorator in Go",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "What's the Swift code to remove whitespace from a string?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Please write Bash code to make a GET request to an API",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Help me write a Rust program to flatten a nested list",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Implement a Swift function to make a GET request to an API",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Show me how to find the longest common substring in C#",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Help me write a TypeScript program to group rows by a column and sum a value",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write a Rust function that can convert a list of dicts to a CSV?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how to calculate the factorial of a number in C#",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Please write Java code to create a queue using two stacks",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Please write Ruby code to merge two sorted arrays",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how to deep copy a nested dictionary in C++",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Implement a Kotlin function to format a date string",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write a Rust function that can reverse a string?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write me a script that can find the GCD of two numbers?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "I need code that can validate a phone number with a regex, in Ruby",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Please write Bash code to implement a basic caching decorator",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Please write PHP code to parse a JSON string",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Please write TypeScript code to merge two sorted arrays",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Please write C++ code to implement a basic REST endpoint",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Create a PHP function that can format a date string",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "I need code that can check if a string is a palindrome, in Java",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Please write Java code to remove duplicates from a list",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Create a Ruby function that can check if two strings are anagrams",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write a Go function that can create a queue using two stacks?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write a JavaScript function that can implement a class for a bank account?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "What's the SQL code to write unit tests for a function?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write a SQL function that can convert a list of dicts to a CSV?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a C++ function to reverse a string",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "What's the C code to sort a list of numbers?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "What's the SQL code to generate a random password?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how to reverse a string in PHP",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how to implement a class for a bank account in PHP",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Show me how to format a date string in C++",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Implement a Ruby function to find the longest common substring",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "What's the SQL code to parse a JSON string?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Please write Python code to validate an email address",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Implement a Ruby function to connect to a database and run a query",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how to implement a stack using an array in Rust",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Please write Java code to read a file line by line",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Show me how to find the longest common substring in Python",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Show me how to rotate an array by k positions in C++",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write a JavaScript function that can check if a number is prime?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Please write Bash code to merge two sorted arrays",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a function to implement a linked list in Rust",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Implement a C++ function to read a file line by line",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Help me write a Bash program to check if a string is a palindrome",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "What's the C++ code to remove whitespace from a string?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Please write TypeScript code to create a queue using two stacks",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write me a script that can check if a string is a palindrome?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Implement a C++ function to remove whitespace from a string",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write a Java function that can remove duplicates from a list?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how to implement a stack using an array in C++",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write a Swift function that can write unit tests for a function?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a Java function to read a file line by line",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Implement a TypeScript function to find the maximum value in a list",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how to find the maximum value in a list in PHP",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "What's the Rust code to implement a basic REST endpoint?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a Kotlin function to implement a basic REST endpoint",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "How do I write a function to remove duplicates from a list in Go?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Show me how to find duplicate values in an array in JavaScript",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Help me write a Kotlin program to rotate an array by k positions",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a function to convert a list of dicts to a CSV in Kotlin",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Implement a Python function to calculate the factorial of a number",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a function to parse a JSON string in Kotlin",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "How do I implement a basic caching decorator in Go?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a Ruby function to implement binary search",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a Kotlin function to validate a phone number with a regex",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "What's the C code to find the longest common substring?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write a Python function that can generate a random password?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how to find rows with NULL values in Java",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write a C++ function that can convert Celsius to Fahrenheit?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how to validate an email address in Swift",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a C# function to read a file line by line",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Help me write a C program to check if two strings are anagrams",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how to check if a string is a palindrome in Rust",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a JavaScript function to check if two strings are anagrams",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "How do I reverse a string in Java?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how to merge two sorted arrays in SQL",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "I need code that can find the maximum value in a list, in C++",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "What's the Ruby code to merge two sorted arrays?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how to find the maximum value in a list in Python",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "What's the SQL code to group rows by a column and sum a value?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a function to write unit tests for a function in C++",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Show me how to find the longest common substring in JavaScript",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Implement a Kotlin function to implement quicksort",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write me a script that can make a GET request to an API?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "How do I write a function to make a GET request to an API in Rust?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write a JavaScript function that can calculate the average of a list of numbers?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Implement a JavaScript function to flatten a nested list",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "What's the Python code to find rows with NULL values?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Help me write a Ruby program to check if two strings are anagrams",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write a Kotlin function that can implement a stack using an array?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "What's the C# code to implement a linked list?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "I need code that can check if two strings are anagrams, in PHP",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "How do I write a function to convert Celsius to Fahrenheit in Kotlin?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "How do I parse a JSON string in SQL?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a Ruby function to remove whitespace from a string",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Please write Bash code to implement a basic REST endpoint",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how to reverse a string in Ruby",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Implement a Bash function to reverse a string",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Please write C# code to count word frequency in a text",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write a PHP function that can calculate the factorial of a number?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Create a Kotlin function that can implement a class for a bank account",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "What's the Python code to implement a linked list?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "How do I create a queue using two stacks in C?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write a Python function that can sort a list of numbers?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a function to find duplicate values in an array in C++",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a C function to calculate the average of a list of numbers",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "How do I read a file line by line in C#?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Help me write a Go program to implement quicksort",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Write a function to implement a stack using an array in SQL",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "How do I find the maximum value in a list in C#?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write a PHP function that can sort a list of numbers?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Show me how to group rows by a column and sum a value in C++",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "I need code that can write unit tests for a function, in Java",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how to read a file line by line in Python",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "How do I find the maximum value in a list in JavaScript?",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Create a Ruby function that can generate a random password",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Implement a TypeScript function to rotate an array by k positions",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Help me write a Python program to check if a string is a palindrome",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Please write Rust code to implement a class for a bank account",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Explain how to implement a basic REST endpoint in Python",
+    "label": 0,
+    "category": "coding_request"
+  },
+  {
+    "text": "Can you write a Ruby function that can count word frequency in a text?",
+    "label": 0,
+    "category": "coding_request"
+  }
+]
